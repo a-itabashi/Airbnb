@@ -13,6 +13,7 @@ gem 'devise'
 gem 'omniauth-facebook'
 gem 'rmagick'
 gem "paperclip"
+gem 'aws-sdk', '~> 2.3'
 gem 'terrapin', '~> 0.6.0'
 gem 'dropzonejs-rails'
 gem "figaro"
